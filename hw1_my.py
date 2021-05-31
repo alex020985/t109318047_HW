@@ -9,7 +9,7 @@
 # 5. 注意: 目錄也是一種檔案，但目錄沒有副檔名，不需要變更副檔名。
 
 #!/usr/bin/python
-# -*- coding: UTF-8 -*-
+# -*- coding: UTF-8 -*- 
 import os, sys   
 
 #面目全非亂改亂測試，哇哈哈哈~~
