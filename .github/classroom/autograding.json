@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "HW1_1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest hw1_test_1.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "HW1_2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest hw1_test_2.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "HW1_3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest hw1_test_3.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "HW1_4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest hw1_test_4.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "HW2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest hw2_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 50
+    }
+  ]
+}
